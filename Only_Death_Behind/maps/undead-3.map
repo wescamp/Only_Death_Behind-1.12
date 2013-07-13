@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Xol, Xol, Rrc, Xol, Xol, Xos, Xos, Xos, Xos, Xos, Xos
+Xos, Xos, Xol, Xos, Xos, Rp, Rp, Rr, 2 Iwr, Rr, Rp, Rp, Xos, Xos, Xol, Xos, Xos
+Xol, Xol, Urb, Xos, Urb, Xol, Xol, Rr, Rrc, Rr, Xol, Xol, Urb, Xos, Urb, Xol, Xol
+Xos, Urb, Urb^Ii, Urb, Urb, Urb, Iwr, Rrc, Iwr, Rrc, Iwr, Urb, Urb, Urb, Urb^Ii, Urb, Xos
+Xos, Urb, Urb, Urb, Xol, Xol, Rrc, Rrc, Rrc, Rrc, Rrc, Xol, Xol, Urb, Urb, Urb, Xos
+Xos, Xos, Xol, Xos, Rrc, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Rrc, Xos, Xol, Xos, Xos
+Xos, Xos, Xos, Xol, Xol, Iwr, Xol, Xol, Rrc^Ii, Xol, Xol, Iwr, Xol, Xol, Xos, Xos, Xos
+Xos, Xos, Xos, Xol, Aa^Vaa, Xos, Iwr, Iwr, Rrc, Iwr, Iwr, Xos, Aa^Vaa, Xol, Xos, Xos, Xos
+Xos, Xos, Xos, Xos, Qxua, Qxua, Iwr, Rp, Iwr, Rp, Iwr, Qxua, Qxua, Xos, Xos, Xos, Xos
+Xos, Qlf, Uu^Vud, Xos, Xos, Xos, Iwr, Gs^Ii, Gll^Efm, Gs^Ii, Iwr, Xos, Xos, Xos, Uu^Vud, Qlf, Xos
+Xos, Qlf, Qlf, Iwr^Ii, Iwr, Iwr, Gs^Ii, Gll^Fmf, Gs^Vl, Gll^Fmf, Gs^Ii, Iwr, Iwr, Iwr^Ii, Qlf, Qlf, Xos
+Xos, Qlf, Xol, Xol, Xos, Iwr, Wwr, Iwr, Gs^Ii, Iwr, Wwr, Iwr, Xos, Xol, Xol, Qlf, Xos
+Xol, Xol, Chs^Ii, Iwr^Es, Xos, Iwr, Wwr, Iwr, Iwr, Iwr, Wwr, Iwr, Xos, Iwr^Es, Chs^Ii, Xol, Xol
+Xos, Iwr^Es, Xos, Iwr, Xos, Xos, Ww^Ewl, Wwr, Wo^Bsb|, Wwr, Ww^Ewl, Xos, Xos, Iwr, Xos, Iwr^Es, Xos
+Xos, Xos, Iwr^Efm, Xos, Xos, Xos, Chw^Ii, Wwr, Wo^Bsb|, Wwr, Chw^Ii, Xos, Xos, Xos, Iwr^Efm, Xos, Xos
+Xos, Xos, Iwr, Wog, Xos, Xos, Ww^Ewf, Wwr, Wo^Bsb|, Wwr, Ww^Ewf, Xos, Xos, Wog, Iwr, Xos, Xos
+Xos, Rd, Dd^Vdt, Iwr, Iwr, Xos, Wwr, Wwr, Iwr, Wwr, Wwr, Xos, Iwr, Iwr, Dd^Vdt, Rd, Xos
+Xos, Rd, Xol, Iwr, Rr, Iwr, Iwr, Iwr, 1 Kh, Iwr, Iwr, Iwr, Rr, Iwr, Xol, Rd, Xos
+Xol, Xol, Xol, Xol, Xol, Rr, Iwr, Ch, Iwr, Ch, Iwr, Rr, Xol, Xol, Xol, Xol, Xol
+Xol, Xol, Xol, Xol, Xol, Xol, Rd, Iwr, Xos, Iwr, Rd, Xol, Xol, Xol, Xol, Xol, Xol
+Xol, Xol, Xol, Xol, Xol, Xol, Xos, Iwr, Iwr, Iwr, Xos, Xol, Xol, Xol, Xol, Xol, Xol

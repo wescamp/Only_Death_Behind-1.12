@@ -1,0 +1,26 @@
+border_size=1
+usage=map
+
+Gll, Wog, Wog, Wog, Gll^Fdf, Rp, Rp, Rp, Gll^Gvs, Gll^Eff, Gll^Eff, Gll^Fmf, Gll, Gd, Gll, Gd, Gd
+Gll, Wwg, Gll^Fdf, Wog, Wog, Wog, Rp, Gll^Gvs, Gll^Gvs, Gll^Gvs, Gll^Es, Gll^Eff, Ss^Vhs, Gll, Wwg, Gll, Gd
+Gll, Gs^Es, Gll, Gg^Es, Rr, Wog^Bsb/, Wog, Gs^Vh, Gll^Gvs, Gll^Gvs, Wwg, Wwrg, Ss, Ss, Wwg, Gll, Gd
+Rp, Rp, Rr^Vhc, Rp, Rr, Gll^Es, Gll^Es, Wwf, Gll^Es, Gll^Fdf, Wwg, Wwg, Wwg, Wwg^Bw\r, Sm^Es, Wwg, Wwg
+Gll^Fdf, Gll^Fdf, Rp, Rp, Rr, Gll^Fdf, Rp, Wwf, Wog, Wwg, Gll^Gvs, Gll^Gvs, Gll^Gvs, Gll^Gvs, Gll, Rb, Gll
+Gll^Fdf, Gll^Fdf, Ch, Ch, Rrc, Rr^Vhc, Rp, Gll^Es, Rp, Wog, Gll^Gvs, Gll^Gvs, Gll^Gvs, Gs^Vh, Rp, Rp, Rp
+Gll, Gll, Gll^Fdf, 2 Kh, Ch, Gll^Fdf, Rp, Rp, Gll^Fdf, Wo^Bsb\, Rp, Gll^Gvs, Rp, Rp, Gll, Gll, Gll
+Rp, Rp, Rp, Ch, Rp, Rp, Rp, Gll^Fdf, Wwg, Wog, Wwg, Rp, Wog, Gll, Gll, Gd, Gd
+Gd, Gd^Es, Gd, Rp, Gll, Rr^Vhc, Rp, Gll, Gs^Vh, Wog, Wog, Gs^Vh, Wwg, Wog, Ss, Gd, Gll
+Gll^Fmf, Gll, Gll^Fmf, Gll, Gll^Es, Gll, Gd^Es, Rp, Rp, Wwrg, Wwg, Wog, Wog, Wwg, Wwrg, Ss^Vhs, Gll^Fdf
+Gll^Fp, Gll^Fmf, Gd^Fetd, Gll^Fmf, Gll, Gll, Gll, Gll, Rp, Gs^Vh, Wwg, Wog, Wwg, Wog, Gll^Fmf, Gll^Fmf, Hhd^Fdf
+Gll^Fp, Gll^Fdf, Gll^Fdf, Gll^Em, Gll^Fmf, Gll^Fp, Gll, Gll, Gd, Rp, Gll, Gg^Vwm, Gll, Wog, Ss, Gll^Fdf, Gll^Fdf
+Hhd^Fmf, Gll^Fmf, Hhd, Hhd^Fmf, Hhd^Fmf, Hhd^Fmf, Hhd^Fmf, Gll^Fdf, Gll^Es, Rp, Rp, Gll, Gll, Wwg, Wwg, Gll^Fmf, Gll^Fdf
+Hhd^Fmf, Gll^Fp, Hhd^Fmf, Hh^Fp, Hhd^Fmf, Hhd^Vhhr, Gll^Fp, Gll^Fdf, Gll^Fmf, Gll, Gll, Rp, Gll^Es, Gll, Wwg, Wwg, Gll^Fdf
+Md, Hh^Fp, Md, Md, Md, Hh^Fp, Mm, Gll^Fmf, Gd^Fetd, Gll^Em, Gll^Fp, Rp, Rp, Gll, Ss, Ss, Ss
+Mm, Md, Mm, Mm, Mm^Xm, Mm, Md, Gll^Fp, Gll^Fp, Hhd^Fmf, Wwg, Wwf, Sm, Ss^Vhs, Wwg, Wwg, Wwg
+Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm^Xm, Mm, Wwg, Md, Wwg, Wwg, Wwg, Wwg, Wwg, Wwg^Bw\, Rp, Wwg, Gll
+Ms, Ms, Ms, Mm^Xm, Mm^Xm, Mm^Xm, Md, Wwg, Md, Md, Hhd^Fmf, Hhd^Fmf, Ss^Vhs, Wwf, Gd^Vhr, Rp, Gll
+Mm^Xm, Ms, Mm^Xm, Ms, Mm^Xm, Mm, Mm, Md, Gll^Fp, Md, Hhd^Fmf, Gll^Fmf, Gll^Fmf, Ss, Rp, Rp, Gll^Gvs
+Mm^Xm, Mm^Xm, Mm, Mm^Xm, Mm, Mm, Mm, Hhd^Vhhr, Rp, Hhd^Fmf, Gll^Em, Gll^Fmf, Rp, Rp, Chr, Gll^Gvs, Gll
+Mm^Xm, Mm, Mm, Mm, Md, Mm, Hhd^Fmw, Hhd^Fmf, Gd^Fetd, Rp, Rp, Rp, Rp, Rr^Vhc, 1 Khr, Gll, Gll
+Mm, Mm, Md, Md, Gll^Fp, Md, Hhd, Gll^Fmf, Gll^Fmf, Gll^Em, Gd^Vhr, Gll^Es, Rp, Chr, Gll, Chr, Gll
+Mm, Md, Md, Hhd^Fmf, Hhd^Fmf, Hhd^Fmf, Gs^Fms, Gll^Fmf, Gll, Gll^Fmf, Gll^Gvs, Gll^Gvs, Gll, Rp, Gll, Gll, Gll
