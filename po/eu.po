@@ -1,0 +1,1557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Only_Death_Behind-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-13 11:23-0400\n"
+"PO-Revision-Date: 2013-07-13 11:23-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+
+#. [message]: speaker=unit
+#: Only_Death_Behind/include/common.cfg:72
+msgid "This can't be ..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Only_Death_Behind/include/common.cfg:86
+msgid "My death was worth nothing ... after all ..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Only_Death_Behind/include/common.cfg:100
+msgid "I failed, my master ... please forgive me ..."
+msgstr ""
+
+#. [scenario]: id=10_undead-1
+#: Only_Death_Behind/scenarios/undead-1.cfg:6
+msgid "Back To Life"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-1.cfg:20
+msgid "This way you two! Hurry up and get through this hole!"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-1.cfg:23
+msgid "There's that private key, good job Cerberus."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-1.cfg:26
+msgid "Hey, I didn't expect that door to be there!"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-1.cfg:29
+msgid "I wonder if i can just break it."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-1.cfg:32
+msgid "Ha!! There you go!"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-1.cfg:35
+msgid ""
+"<i>I'm coming, Ellie ... Even after my death, I'll bring it to you ...</i>"
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-1.cfg:53
+msgid "Possess human bodies to come back to life."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-1.cfg:57
+msgid ""
+"Kill a human with the First Ghost's arcane touch to create a living corpse."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-1.cfg:62
+msgid "Bring the living corpse back to the castle."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-1.cfg:67
+msgid "Then return the ghost to the castle to turn him into to a human."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-1.cfg:72
+msgid "You will be able to recruit more undead units once alive."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Only_Death_Behind/scenarios/undead-1.cfg:77
+msgid "Death of one of the ghosts"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Only_Death_Behind/scenarios/undead-1.cfg:81
+msgid "Not enough humans remaining to possess"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Only_Death_Behind/scenarios/undead-1.cfg:85
+#: Only_Death_Behind/scenarios/undead-2.cfg:45
+#: Only_Death_Behind/scenarios/undead-3.cfg:52
+#: Only_Death_Behind/scenarios/undead-4.cfg:51
+#: Only_Death_Behind/scenarios/undead-6.cfg:49
+#: Only_Death_Behind/scenarios/undead-7.cfg:56
+msgid "Turns run out."
+msgstr ""
+
+#. [side]: id=FirstGhost
+#. [side]: type=Ghost, id=FirstGhost
+#. [side]: type=Lich, id=Shinielle
+#. [side]: type=Mage of Light, id=Parallyn
+#: Only_Death_Behind/scenarios/undead-1.cfg:121
+#: Only_Death_Behind/scenarios/undead-2.cfg:59
+#: Only_Death_Behind/scenarios/undead-3.cfg:65
+#: Only_Death_Behind/scenarios/undead-4.cfg:64
+#: Only_Death_Behind/scenarios/undead-5.cfg:39
+#: Only_Death_Behind/scenarios/undead-6.cfg:62
+#: Only_Death_Behind/scenarios/undead-7.cfg:69
+#: Only_Death_Behind/scenarios/undead-7.cfg:84
+#: Only_Death_Behind/scenarios/undead-7.cfg:97
+#: Only_Death_Behind/scenarios/undead-8.cfg:83
+msgid "The Undead"
+msgstr ""
+
+#. [side]: type=Ghost, id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:124
+msgid "First Ghost"
+msgstr ""
+
+#. [unit]: id=SecondGhost, type=Ghost
+#: Only_Death_Behind/scenarios/undead-1.cfg:132
+msgid "Second Ghost"
+msgstr ""
+
+#. [unit]: id=ThirdGhost, type=Ghost
+#: Only_Death_Behind/scenarios/undead-1.cfg:141
+msgid "Third Ghost"
+msgstr ""
+
+#. [side]: type=Mage of Light, id=Parallyn
+#. [side]: type=Swordsman, id=Opponent
+#: Only_Death_Behind/scenarios/undead-1.cfg:154
+#: Only_Death_Behind/scenarios/undead-2.cfg:76
+msgid "The Town Guard"
+msgstr ""
+
+#. [side]: type=Swordsman, id=Opponent
+#: Only_Death_Behind/scenarios/undead-1.cfg:157
+msgid "Laddyn"
+msgstr ""
+
+#. [side]
+#: Only_Death_Behind/scenarios/undead-1.cfg:177
+msgid "The Villagers"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:196
+msgid ""
+"Now this is some world of the living, boys. It smells. It shines. It sounds."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:200
+msgid "Looks like this gateway has led us to an abandoned castle."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:204
+msgid ""
+"How predictable. Anybody would expect to meet some ghosts in such place."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:208
+msgid ""
+"I do not know your name, but I'm thankful to you for this escape. I will "
+"serve you forever."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:212
+msgid ""
+"And so will I. My attachment to this world is not broken yet, so may the one "
+"who lead us here lead us further."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:216
+msgid "What shall we do now, my master?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:220
+msgid ""
+"Ah thanks guys. We're not quite alive yet. Not in this form. First of all, "
+"we need to get a body to take control of. Then we need to recover our ... "
+"memories. Cause I don't really know my name either. I guess that's the price "
+"of death."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:224
+msgid ""
+"I can confirm that I bear no memory of the life I had before I died. Yet "
+"probably we will be able to remember things when we see stuff that looks "
+"familiar."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:228
+msgid ""
+"This town doesn't look well-defended. We can probably hunt down some "
+"peasants and possess their bodies."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:232
+msgid ""
+"Any person killed with my plagued touch shall be reborn as a living corpse. "
+"Then we shall either make him an ally in our battle, or claim his body as "
+"our own."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:236
+msgid "A sound plan. It should work."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:240
+msgid "Whatever you say ... master."
+msgstr ""
+
+#. [message]: id=Opponent
+#: Only_Death_Behind/scenarios/undead-1.cfg:249
+msgid "A ghost? What the hell?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:290
+msgid ""
+"As far as I understand, all we can rely on is necromancery. We can try "
+"looking for any bones around. Not sure how much magic we can do unless we "
+"get a body of our own to stream it through, but probably one or two corpses "
+"will serve us if we just ask nicely."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:294
+msgid ""
+"I have a certain feeling when I hear your words, my lord. Might it be that "
+"you've been a necromancer when you lived?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:298
+msgid ""
+"That might be. Not sure why, but I don't think of it as if it's something "
+"bad."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:302
+msgid ""
+"My master, I'm seeing three abandoned buildings at the east that might be of "
+"interest."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:317
+msgid "Looks like an abandoned copper ore mine."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:322
+msgid "Let's see if we can find any ... body here?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:327
+msgid "Not bad."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:338
+msgid "Looks like an abandoned hunter lodge."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:343
+msgid "There must be some usable corpses around. Ah, here is one."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:348
+msgid "This one has a bow. Nice."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:360
+msgid "What can we get out of a swamp, I wonder?..."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:365
+msgid "Something big and poisonous."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Only_Death_Behind/scenarios/undead-1.cfg:406
+msgid ""
+"Storing the corpse for future use. Bring one of the shadows to the castle to "
+"possess it."
+msgstr ""
+
+#. [scenario]: id=10_undead-1
+#: Only_Death_Behind/scenarios/undead-1.cfg:491
+msgid "Finally, I can see the world of the living as it is!"
+msgstr ""
+
+#. [scenario]: id=10_undead-1
+#: Only_Death_Behind/scenarios/undead-1.cfg:494
+msgid "Now my powers are finally returning to me."
+msgstr ""
+
+#. [scenario]: id=10_undead-1
+#: Only_Death_Behind/scenarios/undead-1.cfg:497
+msgid "I'm not afraid of death anymore."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-1.cfg:504
+msgid ""
+"This should be enough. Good job guys, let's get out of here and move on."
+msgstr ""
+
+#. [scenario]: id=11_undead-2
+#: Only_Death_Behind/scenarios/undead-2.cfg:6
+msgid "The Encounter"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-2.cfg:18
+msgid ""
+"Having bodies in possession and a ruined village behind, our ghosts have "
+"made their way to the west."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-2.cfg:21
+msgid ""
+"Controlling someone else's body turned out to be fairly difficult. It seemed "
+"that they just didn't fit in there. But after a while they somehow got used "
+"to it."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-2.cfg:24
+msgid ""
+"It was not exactly pleasant. Yet they felt very lucky. Many ghosts have "
+"escaped death throughout the history. It was not impossible. Yet getting "
+"that close to life after death was unimaginable without the First Ghost's "
+"skill they relied on."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-2.cfg:37
+msgid "Defeat the mage school guardians."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Only_Death_Behind/scenarios/undead-2.cfg:41
+#: Only_Death_Behind/scenarios/undead-3.cfg:48
+#: Only_Death_Behind/scenarios/undead-4.cfg:47
+#: Only_Death_Behind/scenarios/undead-6.cfg:45
+#: Only_Death_Behind/scenarios/undead-7.cfg:52
+msgid "Death of one of the necromancers."
+msgstr ""
+
+#. [side]: type=Mage of Light, id=Parallyn
+#. [unit]: id=DeadParallyn
+#. [unit]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:79
+#: Only_Death_Behind/scenarios/undead-5.cfg:60
+#: Only_Death_Behind/scenarios/undead-6.cfg:260
+#: Only_Death_Behind/scenarios/undead-7.cfg:87
+#: Only_Death_Behind/scenarios/undead-7.cfg:450
+msgid "Parallyn"
+msgstr ""
+
+#. [unit]: id=Lieutenant
+#: Only_Death_Behind/scenarios/undead-2.cfg:99
+msgid "Lieutenant Fred"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:107
+msgid ""
+"The town to the north from here, as far as I remember, is a mage school. "
+"Young men and women come here to become mages."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:111
+msgid ""
+"If we break into it and have some time to look at the archives, we may learn "
+"more magic spells from the books they have."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:115
+msgid ""
+"We may also find the reason for our existence. We may find pieces of history "
+"related to our past, my master."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:119
+msgid "Precisely."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:141
+msgid ""
+"Hmm. I think I've heard this name before, and I don't like it. Not sure who "
+"this guy was, but clearly not someone I'd name things after."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:145
+msgid "It sounds familiar to me as well, my lord."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:149
+msgid "I'm sorry, my master, but I do not recall this name."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:157
+msgid ""
+"Lieutenant, I'm expecting an attack soon. Undead are coming by the southern "
+"road. If we move out now, we shall catch them unprepared during daytime."
+msgstr ""
+
+#. [message]: id=Lieutenant
+#: Only_Death_Behind/scenarios/undead-2.cfg:161
+msgid "Undead? What the hell?"
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:165
+msgid "Please mind your tongue today, lieutenant. It's serious."
+msgstr ""
+
+#. [message]: id=Lieutenant
+#: Only_Death_Behind/scenarios/undead-2.cfg:169
+msgid "Ah. Uhm. Sorry, sir. I'll get the troops ready and alert the villagers!"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:173
+msgid ""
+"This guy in the white robe is clever. He's a high-rank mage who specializes "
+"on dealing with undead. We need to be careful."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:184
+msgid ""
+"Be careful, Lieutenant. Our enemies are not just your usual crazy first-day "
+"necromancers."
+msgstr ""
+
+#. [message]: id=Lieutenant
+#: Only_Death_Behind/scenarios/undead-2.cfg:188
+msgid "So ... who are they, sir?"
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:192
+msgid "They are <i>exceptional</i> crazy first-day necromancers."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:203
+msgid "Somebody please tell me I warned him ..."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:214
+msgid ""
+"Good job guys, you're not as weak as I thought. I'm sorry, but I can't "
+"afford to please you with my death yet."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-2.cfg:219
+msgid ""
+"By the way, your history is on page 127 of book 323 of the archive. Please "
+"have a look at the shelf to the left when you get in there. See ya."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:232
+msgid ""
+"Ah, already gone? Not that we care. Let's get inside and have a look at the "
+"book he mentioned."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:236
+msgid ""
+"Why would you trust what he said, my master? It's clearly a trap, and even "
+"if it isn't, his words aren't necessarily true."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:240
+msgid ""
+"No matter how much I hate mages, they normally don't lie. Silver mages enjoy "
+"delusion warfare, but don't really say lies in open. Red mages don't tell "
+"you things at all most of the time. But this guy is a white mage. The "
+"paradigm of white mages is to prove themselves right before engaging in "
+"combat. This provides a significant buff to their power."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-2.cfg:244
+msgid "I see. I'm glad you're the one who leads us, master."
+msgstr ""
+
+#. [scenario]: id=12_undead-3
+#: Only_Death_Behind/scenarios/undead-3.cfg:6
+msgid "The Memories"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-3.cfg:17
+msgid ""
+"Once Parallyn has disappeared in a flash of light, the ghosts have descended "
+"into the archives of the mage school."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-3.cfg:44
+msgid "Explore the mage school archives."
+msgstr ""
+
+#. [side]: type=Lich, id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:82
+msgid "The Archive Guard"
+msgstr ""
+
+#. [side]: type=Lich, id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:85
+msgid "The Lich"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:115
+msgid "A beautiful place they have here."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:119
+msgid "Clearly filled with traps."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:159
+msgid ""
+"Oh, fire elemental magic? I'm surprised to see they still use these. When "
+"humans control them, they can only appear in limited numbers. If we find a "
+"way to tame them, we could probably make a better use of them later."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:221
+msgid ""
+"This effectively disables fire guardians. I think I know how they made them. "
+"Probably I'd be able to summon some of those myself."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Only_Death_Behind/scenarios/undead-3.cfg:225
+msgid "You can now recruit Fire Guardians."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:280
+msgid "Weeeeeeelcome theeeeere."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:284
+msgid "What the ... Why would mages deal with this sort of ... thing?"
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:288
+msgid "He he he he he."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:292
+msgid "He he he he he he he."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:296
+msgid "You don't understand, little boy. You're completely missing the point."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:300
+msgid "I am ... YOU."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:304
+msgid ""
+"When you died, you were buried here, in this room. So, will you destroy your "
+"own body now, only to discover its name? Shouldn't be a problem for you "
+"after you leveled your home town and destroyed the school where you learned "
+"all your magic ... The only way to know things is to destroy them. Right, "
+"little boy?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:308
+#: Only_Death_Behind/scenarios/undead-7.cfg:322
+msgid "..."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:312
+msgid "My master, I will follow you whatever you decide."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:316
+msgid ""
+"Thanks. I don't think I have much choice though. This thing won't let us out "
+"until we ... destroy it."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:320
+msgid ""
+"I must admist this guy has really hurt me though. Seems there's truly no way "
+"back after you die."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:331
+msgid "Now say farewell to yourself, little boy. Your name is ..."
+msgstr ""
+
+#. [message]: id=TheLich
+#: Only_Death_Behind/scenarios/undead-3.cfg:335
+msgid "Nygwyn the Dark."
+msgstr ""
+
+#. [modify_unit]
+#: Only_Death_Behind/scenarios/undead-3.cfg:341
+msgid "Nygwyn"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:349
+msgid "Aaaargh. Now I ... remember ..."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:353
+msgid ""
+"Right, I was a mage here. Then I went on a quest to discover a mysterious "
+"artefact, 'The Crown of Light' was how they called it. And I almost "
+"succeeded ... I got it, but I couldn't bring it back home. No, I never "
+"wanted to give it to those bald-headed wizards. I only wanted to ..."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:357
+msgid "Ah ... no ..."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:361
+msgid "... her name was Ellie. And she waited for you ..."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:365
+msgid "Yes right ... how did you?... ah ..."
+msgstr ""
+
+#. [modify_unit]
+#: Only_Death_Behind/scenarios/undead-3.cfg:371
+msgid "Ellie"
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:375
+msgid "This makes two of us who knows the name."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:379
+msgid "ELLIE!!!!! "
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:383
+msgid "Ellie ... What happened to you? Why did you die?"
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:387
+msgid "I know not."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:391
+msgid ""
+"Hmm. In fact I have no clue how I died either. Our memories are still "
+"incomplete."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-3.cfg:395
+msgid "Oh well. Let's take a few books and some gold and try to avoid company."
+msgstr ""
+
+#. [scenario]: id=13_undead-4
+#: Only_Death_Behind/scenarios/undead-4.cfg:6
+msgid "Ancient Ruins"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-4.cfg:18
+msgid ""
+"That was how two of our ghosts remembered their past. Then our ghosts moved "
+"out further on their journey, re-thinking their lives, trying to remember "
+"the details, and, eventually, to come up with plans for the future, which "
+"didn't seem bright."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-4.cfg:21
+msgid ""
+"Nygwyn, the first ghost, once was a powerful mage. He dedicated his life to "
+"studying the most ancient artifacts mentioned in the books. And once he went "
+"on a quest that had lead him to one of the oldest items, that was created "
+"long before the human history. The Crown of Light, the ancient golden "
+"treasure filled with enormous arcane powers."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-4.cfg:24
+msgid ""
+"Ellie was never willing to let Nygwyn go. No matter what Nygwyn said, she "
+"realized it was really dangerous. Yet she humbly accepted his desire to go, "
+"and waited peacefully for him to return. But he never did. Something "
+"happened on his journey, something he still remembered only vaguely."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-4.cfg:27
+msgid ""
+"The third ghost did not remember anything. No matter how he tried, he could "
+"not recall his own name."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-4.cfg:30
+msgid ""
+"Nygwyn looked as if he was already having something in mind. Consulting the "
+"stolen archive books from time to time, he has lead the travellers and their "
+"undead servants to the north, away from human settlements."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-4.cfg:43
+msgid "Kill all enemy leaders."
+msgstr ""
+
+#. [side]: type=Grand Knight, id=TheKnight
+#. [side]: type=Mage of Light, id=Parallyn
+#. [side]: type=Paladin, id=ThePaladin
+#: Only_Death_Behind/scenarios/undead-4.cfg:88
+#: Only_Death_Behind/scenarios/undead-4.cfg:106
+#: Only_Death_Behind/scenarios/undead-5.cfg:57
+msgid "The Humans"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-4.cfg:122
+msgid ""
+"I guess we've got company. They are pretty quick. I think this mage had "
+"warned the king even before our reincarnation."
+msgstr ""
+
+#. [message]: id=ThePaladin
+#: Only_Death_Behind/scenarios/undead-4.cfg:126
+msgid ""
+"There! I can see these necromancers at the horizon. They will not escape! "
+"For the Light, let's banish them from this land!"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-4.cfg:130
+msgid ""
+"But this boy is naive. He talks of light and dark, yet he has no clue what "
+"the dark is. He's not the one to teach me."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-4.cfg:139
+msgid "My master, what are these ruins around us?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-4.cfg:143
+msgid ""
+"These are said to be the ruins of Cernadel, an ancient human city, once huge "
+"and prosperous. There is an almost forgotten legend of king Sennet and king "
+"Hennet, the twin brothers who once ruled this city."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-4.cfg:147
+msgid ""
+"But in fact we know very little about the city. A few people tried digging "
+"into these ruins, but found nothing of interest. Whatever it was, now it's "
+"nothing but a heap of stones on the ground, so close to the land of orcs "
+"that nobody likes to live there."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-4.cfg:155
+msgid "They accept their death peacefully. Something I will never understand."
+msgstr ""
+
+#. [scenario]: id=14_undead-5
+#: Only_Death_Behind/scenarios/undead-5.cfg:6
+msgid "The Destinies"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-5.cfg:18
+msgid ""
+"Having made sure the human army is no longer on their tail, our ghosts had a "
+"break to discuss what to do and where to go."
+msgstr ""
+
+#. [side]: type=Elvish Marshal
+#. [side]: type=Elvish Sylph, id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-5.cfg:69
+#: Only_Death_Behind/scenarios/undead-8.cfg:101
+#: Only_Death_Behind/scenarios/undead-8.cfg:117
+#: Only_Death_Behind/scenarios/undead-8.cfg:131
+msgid "The Elves"
+msgstr ""
+
+#. [side]: type=Elvish Sylph, id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-5.cfg:72
+#: Only_Death_Behind/scenarios/undead-8.cfg:104
+msgid "Lanitelle"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:86
+msgid ""
+"It's too early to relax. We still have this wizard watching us. Besides, "
+"I've found some interesting stuff in the archives."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:92
+msgid ""
+"It seems that even though the artefact I've been hunting now belongs to the "
+"rightful owner, its magic power was separated from it. It is now stored "
+"elsewhere, as a blob of pure untamed magic, somewhere in the land of elves."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:96
+msgid ""
+"It is known that the kingdom of elves, known as the Emerald Forest, is ruled "
+"by three elvish witches. Their law forbids them to bring harm to each other, "
+"and also to the forest itself."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:100
+msgid ""
+"Lanitelle is the queen of fairies. She is a strong magician and a powerful "
+"enemy of us undead. Halinelle is the queen of druids. She is responsible for "
+"maintaining the forest, and also peaceful magic and healing. Shinielle was "
+"the queen of warriors. She was responsible for the regular army of the elves."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:105
+msgid "I'm saying she `was', because she was defeated a while ago. By me."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:110
+msgid "Oh dear. Don't tell me we're going against elves."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:116
+msgid ""
+"Not quite yet. Halinelle won't be of much challenge: she is young, she "
+"hardly has any army, so she is not worth an effort. But Lanitelle is too "
+"tough for us right now; she must also be possessing the artefact we're "
+"looking for."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:122
+msgid ""
+"We will go to the north, to an ancient orc citadel. There we will try to "
+"take possession of an old artefact known as the Hammer of Hennet."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:126
+msgid ""
+"The Hammer of Hennet? Is it the same king Hennet from the legend ... the one "
+"who ruled Cernadel?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:130
+msgid ""
+"The legend says that king Hennet, at some point of his life, was going "
+"through a great pain and suffering. This eventually lead him to merging "
+"whatever magic powers he had into a great weapon: a huge hammer that is "
+"capable of breaking any armor, metal or divine."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:134
+msgid ""
+"According to the legend, he never used this hammer after all. Not even a "
+"single hit. So it should still possess its complete strength."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:140
+msgid "Doesn't sound like a honeymoon either ..."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-5.cfg:144
+msgid "That's our only hope."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-5.cfg:165
+msgid ""
+"I am aware that they are coming. The question is, are you aware that your "
+"destiny is already decided?"
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-5.cfg:169
+msgid ""
+"I know. I know that this evil is too hard for me to handle. I know that you "
+"won't be able to unite your forces with mine, as it goes agaist the rules. I "
+"only came to inform you that my desire is to make them go through <i>hell</"
+"i> before I die."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-5.cfg:174
+msgid ""
+"Very well, young human. I will not be able to join you, but if that is your "
+"wish, I promise you will have a powerful ally. For there is another who "
+"wants the same."
+msgstr ""
+
+#. [scenario]: id=15_undead-6
+#: Only_Death_Behind/scenarios/undead-6.cfg:6
+msgid "Seekers of Legends"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-6.cfg:19
+msgid ""
+"By the sunset, our three ghosts have reached the legendary valley and saw "
+"three magnificent orcish encampments rising above it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-6.cfg:33
+msgid "Bring Nygwyn to the orc fortress on the north-west."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-6.cfg:37
+msgid "Bring Ellie to the orc fortress on the north-east"
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-6.cfg:41
+msgid "Bring the third ghost to the orc fortress on the south-west."
+msgstr ""
+
+#. [side]: type=Orcish Ruler, id=FirstOrc
+#. [side]: type=Orcish Ruler, id=SecondOrc
+#. [side]: type=Orcish Warlord, id=ThirdOrc
+#: Only_Death_Behind/scenarios/undead-6.cfg:91
+#: Only_Death_Behind/scenarios/undead-6.cfg:112
+#: Only_Death_Behind/scenarios/undead-6.cfg:133
+msgid "The Orcs"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:158
+msgid ""
+"Hey guys up there. I offer an eternal life to anybody who's coming with me "
+"against the elves."
+msgstr ""
+
+#. [message]: id=FirstOrc
+#: Only_Death_Behind/scenarios/undead-6.cfg:162
+msgid "Ha ha ha ha ha. Who's that crazy man?"
+msgstr ""
+
+#. [message]: id=SecondOrc
+#: Only_Death_Behind/scenarios/undead-6.cfg:166
+msgid ""
+"Eternal life? What a non-sense. How has he ever came up with such a weird "
+"idea?"
+msgstr ""
+
+#. [message]: id=ThirdOrc
+#: Only_Death_Behind/scenarios/undead-6.cfg:170
+msgid ""
+"I think those humans enjoy their life too much. It's our job to remind them "
+"that life is suffering, and taking life is an act of mercy."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:174
+msgid "Heh, you've never been a good diplomat, Nygwyn."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:178
+msgid "I don't remember you ever being a <i>man</i> in the first place."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:182
+msgid "Not funny."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:186
+msgid "Anyway, which one of the three is `the' ancient citadel?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:190
+msgid "Uhm. No idea. They all look the same."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:194
+msgid "We can probably ... split up?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:198
+msgid ""
+"I don't even want to think about it. Not loosing you again, Ellie. No way we "
+"do that."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:202
+msgid ""
+"I hate to admit it, but we don't have much time. This white guy is surely on "
+"our tail. I can feel him somehow."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:206
+msgid "Me too. It seems to be the only way for us to get this hammer in time."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:210
+msgid ""
+"Uhm ... oh well. Ellie, you go to the pleasantly cool place on the north "
+"then. And I'd go to the big castle."
+msgstr ""
+
+#. [message]: id={Z}
+#: Only_Death_Behind/scenarios/undead-6.cfg:224
+msgid "I'm inside the fortress."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:247
+msgid "Doesn't seem they have too much of an army."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-6.cfg:251
+msgid "I think they're just warming up. They weren't prepared, after all."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-6.cfg:266
+msgid "I guess you deserve another warm welcome, old friend Nygwyn."
+msgstr ""
+
+#. [scenario]: id=16_undead-7
+#: Only_Death_Behind/scenarios/undead-7.cfg:6
+msgid "The Moment of Truth"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-7.cfg:18
+msgid ""
+"Nygwyn has descended into the catacombs beneath the citadel. He has "
+"instantly felt the strong magic surrounding the place. It was certainly "
+"there. The legendary hammer of king Hennet must still be around."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-7.cfg:21
+msgid ""
+"It was said in the book that in ancient times king Hennet, a younger twin "
+"brother of king Sennet, had once lived through great pain. Being a powerful "
+"mage and a cunning warrior, he encapsulated his feelings into a magnificent "
+"weapon that was later referred to as the Hammer of Hennet."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-7.cfg:24
+msgid ""
+"The same book mentioned the orcish citadel, located somewhere at this place, "
+"that once threatened the city of Cernadel around this time. It seemed that "
+"the kings became famous for getting rid of this threat and defeated the "
+"orcs, yet it was explicitly stated that king Hennet has never used his "
+"hammer in this quest. And later mages of Cernadel sealed the hammer "
+"somewhere in the citadel in such a way that no orc could retrieve it and no "
+"human could be tempted by its power."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-7.cfg:44
+msgid "Find Ellie."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-7.cfg:48
+msgid "Acquire the Hammer of Hennet."
+msgstr ""
+
+#. [side]: type=Troll Hero, id=Brump
+#. [side]: type=Troll Shaman, id=Drump
+#: Only_Death_Behind/scenarios/undead-7.cfg:109
+#: Only_Death_Behind/scenarios/undead-7.cfg:121
+msgid "The Trolls"
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:134
+msgid "I am here, my master."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:138
+msgid "Oh my god you're fast. I wonder if Ellie is all right."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:142
+msgid "This tunnel leads to the east. She must be there."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Only_Death_Behind/scenarios/undead-7.cfg:151
+msgid "There is no return for you. You all will cease to exist."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:155
+msgid "These are, probably, the <i>other</i> undead?"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:159
+msgid ""
+"They don't look friendly. And Ellie could not have created them. She doesn't "
+"use this sort of magic, neither do I. Makes me have a bad feeling about this."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Only_Death_Behind/scenarios/undead-7.cfg:203
+msgid "Awww the dead are coming from both directions."
+msgstr ""
+
+#. [message]: id=ThirdGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:207
+msgid "Sounds like some good news, my master."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:211
+msgid "Hope so."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:259
+msgid ""
+"What a wonderful monument. I bet the Hammer of Hennet is on the bottom of "
+"this abyss. And it takes at least three mages to rise it to the surface."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:263
+msgid "Gah, if only Ellie was there. Where is she, anyway?"
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:279
+msgid "Ha ha ha ha ha ha ha ha ha ....."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:283
+msgid ""
+"What is this ... Ellie??... Is this wizard doing some nasty trick again?"
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-7.cfg:287
+msgid ""
+"You are still blind, old friend. Even now you do not understand what have "
+"you done and what is the price of undeath."
+msgstr ""
+
+#. [modify_unit]
+#: Only_Death_Behind/scenarios/undead-7.cfg:293
+msgid "Someone Else"
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:297
+msgid ""
+"It was so easy to fool and trap you. Now, having combined my strength with "
+"the power of this mage, I shall finally have my revenge."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Only_Death_Behind/scenarios/undead-7.cfg:301
+msgid ""
+"Then the two have risen their staffs and started whispering a spell. It was "
+"probably one of the weirdest spells Nygwyn has ever heard in his life. "
+"Nothing like that was used by the mages he knew."
+msgstr ""
+
+#. [message]: id=Parallyn
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:306
+#: Only_Death_Behind/scenarios/undead-7.cfg:312
+msgid "<i>Return to the void, oh one who should not exist!</i>"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Only_Death_Behind/scenarios/undead-7.cfg:317
+msgid ""
+"Quickly figuring out what sort of spell is emerging, Nygwyn prepared himself "
+"to deflect the sudden magical attack. It seemed to be within his powers, as "
+"he knew that even two most powerful mages in the world would hardly be "
+"capable of killing him with a single shot. But something different has "
+"happened. Something he could not have predicted."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Only_Death_Behind/scenarios/undead-7.cfg:331
+msgid ""
+"The third ghost, who did not even knew his name yet, was burned into "
+"oblivion in an instant. After the arcane strike had settled, the person in "
+"the second ghost's body has slowly started to speak."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:336
+msgid ""
+"Yeah. It's <i>that easy</i>, my old enemy. Did you really think that an "
+"ordinary human girl could remember her name after death? Even for you, a "
+"powerful mage, it was hard. Yet see me. I remember everything. For I have "
+"never been a human. I remember how you killed my friends. Loosing friends is "
+"much harder than dying, you know. And now I paid you with the same."
+msgstr ""
+
+#. [modify_unit]
+#. [unit]: id=DeadShinielle
+#: Only_Death_Behind/scenarios/undead-7.cfg:342
+#: Only_Death_Behind/scenarios/undead-7.cfg:400
+msgid "Shinielle"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:346
+msgid "Wait, you are ... <i>that elvish witch!!</i>"
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:350
+msgid ""
+"Yeeeeeah. This one. Congratulations, Nygwyn the Dark. I no longer need to "
+"deceive you."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-7.cfg:354
+msgid "And now let's conclude the melodrama."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:358
+msgid "Just shut up you two ..."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-7.cfg:362
+msgid ""
+"When Ellie realized that you would not return, she poisoned herself. That's "
+"why, even while having no memories, she intuitively used the magic of poison "
+"after you three escaped death."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-7.cfg:366
+msgid ""
+"But you only rushed for magical powers. That's why you failed to recognize "
+"her."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:370
+msgid "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:374
+msgid "DIE YOU ALL, JUST DIE."
+msgstr ""
+
+#. [message]: id=SecondGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:385
+msgid "I don't care. My mission is complete."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:389
+msgid ""
+"You do. No way I'll let your soul go now. You'll make a model citisen, "
+"disgusting elf."
+msgstr ""
+
+#. [message]: id=Parallyn
+#: Only_Death_Behind/scenarios/undead-7.cfg:435
+msgid ""
+"I did everything I could. I have no regrets. The rest ... others will do."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:439
+msgid ""
+"Huh. You were truly powerful. Yet ... hardly better than me. You were never "
+"forced to confront me. It was your choice to bring me pain, and it has a "
+"price. I know your mind will not obey, but your body will serve me well."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:465
+msgid "That's right, you two. You will help me get the Hammer now."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:469
+msgid ""
+"So that I could create a kingdom of the dead. A kingdom where death doesn't "
+"exist. A place for those who did not want to die."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-7.cfg:486
+msgid "Ha ha ha ha ha ha ha ha ha ha ha ha ........"
+msgstr ""
+
+#. [scenario]: id=17_undead-8
+#: Only_Death_Behind/scenarios/undead-8.cfg:5
+msgid "End Of The Day"
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-8.cfg:16
+msgid ""
+"The battle was over, and the long hated enemy has finally fallen. Yet "
+"Ellie's death laid an even larger scar on Nygwyn's heart. She was burnt down "
+"in an instant by the vicious spell he couldn't prevent. But what made him "
+"sad was that he had really never recognized her, while even after death she "
+"was always by his side."
+msgstr ""
+
+#. [part]
+#: Only_Death_Behind/scenarios/undead-8.cfg:19
+msgid ""
+"Yet it no longer mattered. With the help of his undead enemies Nygwyn had "
+"recovered the ancient Hammer of Hennet from the abyss where it stayed for "
+"centuries. He already knew what to do. All he wanted is that nobody else in "
+"the world had ever felt the pain he came through."
+msgstr ""
+
+#. [objective]: condition=win
+#: Only_Death_Behind/scenarios/undead-8.cfg:66
+msgid "Slay Lanitelle."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Only_Death_Behind/scenarios/undead-8.cfg:70
+msgid "Death of one of the leaders."
+msgstr ""
+
+#. [side]: type=Mermaid Enchantress
+#: Only_Death_Behind/scenarios/undead-8.cfg:145
+msgid "The Mermen"
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-8.cfg:160
+msgid ""
+"A place for the dead to live in peace. Are we not worth it? Even without the "
+"Crown of Light, magical powers of this place should be enough to make this "
+"dream come true. Then people will no longer suffer. We just need to fight "
+"our way through. One last time."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:168
+msgid ""
+"This place is cursed, human. You may deceive yourself and say that it took "
+"you a huge power of spirit to come here, but it didn't. You only came here "
+"because you have no will. Much like me."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:172
+msgid ""
+"Possessing a strong power, I am able to see through what is about to come. "
+"You may think you went through hard decisions, but I can only say I knew "
+"you'd come long before they were made."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-8.cfg:176
+msgid ""
+"Nonsense! Everybody in this world was against me, yet I was able to stand "
+"there and fight the fate!"
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:180
+msgid ""
+"The curse known as fate ... nobody can overcome it. I was cursed to stay "
+"aside when you was fighting Shinielle. I was cursed to stay aside when you "
+"defeated the human mage. Cursed by the ancient rules of the elvish kingdoms, "
+"that are stronger than any magic an elf could possess."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:184
+msgid ""
+"You, human, on the other hand, are merely driven by the Crown of Light as "
+"its slave. You will not be able to master it again once you've fallen."
+msgstr ""
+
+#. [message]: id=DeadShinielle
+#: Only_Death_Behind/scenarios/undead-8.cfg:188
+msgid ""
+"I have heard it many times from you, but I do not care, my old ... "
+"colleague. As I have learned from my new master, rules can be rewritten, "
+"curses can be broken, fate can be challenged."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-8.cfg:195
+msgid ""
+"Even the very law of life and death means nothing to us. So your pathetic "
+"rule is a bad excuse. We shall break your curse, and the kingdom of the "
+"elves will go to oblivion. Then a new kingdom shall arize on its ashes. The "
+"kingdom where nobody sets rules, because when you do not die, they are no "
+"longer needed."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-8.cfg:211
+msgid "There you go. Die and show me where the Crown of Light is."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:215
+msgid ""
+"You won't have it. It belongs to someone much stronger than me, since even I "
+"do not know who he is or where he lives."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:219
+msgid ""
+"But you, human mage Nygwyn, are weak. Your actions are predictable. You are "
+"merely another mindless creature tempted by the power of the artifact. I die "
+"today, but the future you're looking for doesn't exist."
+msgstr ""
+
+#. [message]: id=Lanitelle
+#: Only_Death_Behind/scenarios/undead-8.cfg:223
+msgid ""
+"Yet there is one thing. With my death, the curse of the elves is finally "
+"broken. Only one of the three remains now. It will be up to Halinelle to "
+"diminish the curse and set things right. Thank you ... human."
+msgstr ""
+
+#. [message]: id=FirstGhost
+#: Only_Death_Behind/scenarios/undead-8.cfg:231
+msgid ""
+"She doesn't have it! She really doesn't have it! Where is the Crown? Look "
+"for it! Search for it! Find it!!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Only_Death_Behind/scenarios/undead-8.cfg:235
+msgid ""
+"Here we conclude the second part of the Legends of the Emerald Forest. The "
+"final part of the trilogy will be announced as soon as it's ready, stay "
+"tuned!"
+msgstr ""
