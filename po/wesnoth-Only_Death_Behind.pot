@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Only_Death_Behind-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-13 11:23-0400\n"
+"POT-Creation-Date: 2013-07-23 17:15-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -351,93 +351,98 @@ msgstr ""
 msgid "Precisely."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:123
+msgid "Hint: in this campaign each of the leaders can recruit only a specific type of undead warriors."
+msgstr ""
+
 #. [message]: id=FirstGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:141
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:145
 msgid "Hmm. I think I've heard this name before, and I don't like it. Not sure who this guy was, but clearly not someone I'd name things after."
 msgstr ""
 
 #. [message]: id=SecondGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:145
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:149
 msgid "It sounds familiar to me as well, my lord."
 msgstr ""
 
 #. [message]: id=ThirdGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:149
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:153
 msgid "I'm sorry, my master, but I do not recall this name."
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:157
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:161
 msgid "Lieutenant, I'm expecting an attack soon. Undead are coming by the southern road. If we move out now, we shall catch them unprepared during daytime."
 msgstr ""
 
 #. [message]: id=Lieutenant
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:161
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:165
 msgid "Undead? What the hell?"
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:165
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:169
 msgid "Please mind your tongue today, lieutenant. It's serious."
 msgstr ""
 
 #. [message]: id=Lieutenant
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:169
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:173
 msgid "Ah. Uhm. Sorry, sir. I'll get the troops ready and alert the villagers!"
 msgstr ""
 
 #. [message]: id=FirstGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:173
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:177
 msgid "This guy in the white robe is clever. He's a high-rank mage who specializes on dealing with undead. We need to be careful."
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:184
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:188
 msgid "Be careful, Lieutenant. Our enemies are not just your usual crazy first-day necromancers."
 msgstr ""
 
 #. [message]: id=Lieutenant
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:188
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:192
 msgid "So ... who are they, sir?"
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:192
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:196
 msgid "They are <i>exceptional</i> crazy first-day necromancers."
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:203
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:207
 msgid "Somebody please tell me I warned him ..."
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:214
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:218
 msgid "Good job guys, you're not as weak as I thought. I'm sorry, but I can't afford to please you with my death yet."
 msgstr ""
 
 #. [message]: id=Parallyn
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:219
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:223
 msgid "By the way, your history is on page 127 of book 323 of the archive. Please have a look at the shelf to the left when you get in there. See ya."
 msgstr ""
 
 #. [message]: id=FirstGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:232
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:236
 msgid "Ah, already gone? Not that we care. Let's get inside and have a look at the book he mentioned."
 msgstr ""
 
 #. [message]: id=ThirdGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:236
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:240
 msgid "Why would you trust what he said, my master? It's clearly a trap, and even if it isn't, his words aren't necessarily true."
 msgstr ""
 
 #. [message]: id=FirstGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:240
-msgid "No matter how much I hate mages, they normally don't lie. Silver mages enjoy delusion warfare, but don't really say lies in open. Red mages don't tell you things at all most of the time. But this guy is a white mage. The paradigm of white mages is to prove themselves right before engaging in combat. This provides a significant buff to their power."
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:244
+msgid "No matter how much I hate mages, they normally don't lie. Silver mages enjoy delusion warfare, but don't really say lies in open. Red mages don't tell you things at all most of the time. But this guy is a white mage. The paradigm of white mages is to prove themselves right before engaging in combat. This increases their power significantly."
 msgstr ""
 
 #. [message]: id=ThirdGhost
-#: ./Only_Death_Behind/scenarios/undead-2.cfg:244
+#: ./Only_Death_Behind/scenarios/undead-2.cfg:248
 msgid "I see. I'm glad you're the one who leads us, master."
 msgstr ""
 
